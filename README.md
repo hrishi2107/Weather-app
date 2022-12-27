@@ -2,7 +2,7 @@
 
 The website aims to provide real time weather information of any location in the world.
 
-![Weather Website](https://github.com/hrishi2107/Weather-website/blob/master/weather-web.png)
+![Weather Website](https://github.com/hrishi2107/Weather-website/blob/master/bg.png)
 
 ## The technologies used to make this website are:
 
