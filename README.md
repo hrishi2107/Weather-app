@@ -2,7 +2,7 @@
 
 The website aims to provide real time weather information of any location in the world.
 
-![Contact_Tracing_App](https://github.com/choudharymanish8585/contact-tracing/blob/master/screenshots/screenshots.png)
+![Weather Website](https://github.com/hrishi2107/Weather-website/blob/master/weather-web.png)
 
 ## The technologies used to make this website are:
 
